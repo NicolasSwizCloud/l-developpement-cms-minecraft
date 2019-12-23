@@ -1,6 +1,6 @@
 Hébergeur* Conseillé
  - HolyCloud.fr
- - Internox.net
+ - Interox.net
  - informatique-fr.fr
 
 # Bienvenue dans le guide d'installation du CMS GMod de L-Développement 
