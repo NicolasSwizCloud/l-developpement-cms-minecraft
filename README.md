@@ -3,7 +3,7 @@ Hébergeur* Conseillé
  - Interox.net
  - informatique-fr.fr
 
-# Bienvenue dans le guide d'installation du CMS GMod de L-Développement 
+# Bienvenue dans le guide d'installation du CMS Minecraft de L-Développement 
 
 ## Pour commencer 
 
